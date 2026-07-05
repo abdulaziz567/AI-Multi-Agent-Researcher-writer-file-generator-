@@ -1,0 +1,16 @@
+# Environment variables (NEVER commit this - contains API keys)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Generated output files
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
